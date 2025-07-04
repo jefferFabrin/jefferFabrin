@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jefferson Fabrin 👋  
+**Software Engineer | Full Stack Developer**
 
-<!--
-**jefferFabrin/jefferFabrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack & Skills
+- **Languages:** TypeScript, JavaScript, Node.js  
+- **Frameworks & Libraries:** React, Express  
+- **Cloud & Infrastructure:** AWS (Lambda, SQS, API Gateway, ECS, etc.)  
+- **Databases:** MongoDB, Redis, DynamoDB  
+- **Architecture:** Clean Architecture, Domain-Driven Design (DDD), Event-Driven Systems  
+- **Others:** CI/CD, Microservices, WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Let's Connect
+- [X (Twitter)](https://x.com/Jeffers_dev)  
+- [LinkedIn](https://www.linkedin.com/in/jeffersonfabrin/)
+
+---
+
+### 🎮 Fun Facts
+Outside of coding, I’m into games, movies, and learning new tech just for fun. Always curious and always building.
